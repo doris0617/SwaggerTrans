@@ -1,0 +1,12 @@
+D:\Project\RJ\SwaggerTrans\bin\Debug\net8.0\SwaggerTrans.deps.json
+D:\Project\RJ\SwaggerTrans\bin\Debug\net8.0\SwaggerTrans.dll
+D:\Project\RJ\SwaggerTrans\bin\Debug\net8.0\SwaggerTrans.pdb
+D:\Project\RJ\SwaggerTrans\obj\Debug\net8.0\SwaggerTrans.csproj.AssemblyReference.cache
+D:\Project\RJ\SwaggerTrans\obj\Debug\net8.0\SwaggerTrans.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\RJ\SwaggerTrans\obj\Debug\net8.0\SwaggerTrans.AssemblyInfoInputs.cache
+D:\Project\RJ\SwaggerTrans\obj\Debug\net8.0\SwaggerTrans.AssemblyInfo.cs
+D:\Project\RJ\SwaggerTrans\obj\Debug\net8.0\SwaggerTrans.csproj.CoreCompileInputs.cache
+D:\Project\RJ\SwaggerTrans\obj\Debug\net8.0\SwaggerTrans.dll
+D:\Project\RJ\SwaggerTrans\obj\Debug\net8.0\refint\SwaggerTrans.dll
+D:\Project\RJ\SwaggerTrans\obj\Debug\net8.0\SwaggerTrans.pdb
+D:\Project\RJ\SwaggerTrans\obj\Debug\net8.0\ref\SwaggerTrans.dll
